@@ -34,7 +34,7 @@ Local 881 UFCW Scholarship
 -	Built background processing system with Flask microservice for audio stem separation using Demucs neural network.
 
 
-### [Foreign Exchange Trading Platform](https://depaul-northern-trust-hackathon.vercel.app/data) (Northern Trust Hackathon - 3rd Place)
+### [Foreign Exchange Trading Platform](https://depaul-northern-trust-hackathon.vercel.app) (Northern Trust Hackathon - 3rd Place)
 
 -	Developed a comprehensive foreign exchange trading platform using React that integrates real-time currency conversion, trading simulation, and predictive analytics.
 -	Built an interactive interface with portfolio tracking, trade history, and real-time exchange rate data via API integration.
