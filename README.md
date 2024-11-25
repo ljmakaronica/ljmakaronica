@@ -27,20 +27,21 @@ Local 881 UFCW Scholarship
 
 ## Projects
 
-### Stem Player iOS Application
+### [Stem Player iOS Application](https://github.com/ljmakaronica/iOS-Stem-Player)
 -	Developed an iOS app that takes YouTube links from users, processes the audio into 4 separate tracks ("stems"), and enables users to manipulate the separated tracks.
 -	Engineered synchronized multi-track playback using AVAudioPlayer for precise control of each isolated track.
 -	Implemented intuitive audio interface with real-time stem manipulation, volume controls, and synchronized scrubbing.
 -	Built background processing system with Flask microservice for audio stem separation using Demucs neural network.
 
 
-### Foreign Exchange Trading Platform (Northern Trust Hackathon - 3rd Place)
+### [Foreign Exchange Trading Platform](https://depaul-northern-trust-hackathon.vercel.app/data) (Northern Trust Hackathon - 3rd Place)
+
 -	Developed a comprehensive foreign exchange trading platform using React that integrates real-time currency conversion, trading simulation, and predictive analytics.
 -	Built an interactive interface with portfolio tracking, trade history, and real-time exchange rate data via API integration.
 -	Implemented an LSTM (Long Short-Term Memory) machine learning model to predict currency exchange rate trends and identify optimal trading opportunities. Data is visualized with Chart.js.
 
 
-### Fantasy Draft Algorithm
+### [Fantasy Basketball Draft Tool](https://github.com/ljmakaronica/Fantasy-Draft-Tool-for-Sleeper)
 -	Scraped NBA player stats and processed data using pandas and NumPy for fantasy score calculations.
 -	Implemented a custom scoring system to rank players based on performance, injury risk, age, and league rules.
 -	Automated data analysis pipeline to optimize draft strategies with dynamic player rankings.
