@@ -25,6 +25,8 @@ DePaul Future Forward Scholarship
 Kroger Scholars Scholarship  
 Local 881 UFCW Scholarship  
 
+*Currently the president of DePaul Serbian Cultural Club and actively participating in DePaul Computer Science Society and DePaul Orthodox Christian Fellowship.*
+
 ## Projects
 
 ### [Stem Player iOS Application](https://github.com/ljmakaronica/iOS-Stem-Player)
@@ -50,13 +52,3 @@ Local 881 UFCW Scholarship
 - English (Native)
 - Serbian (Native)
 - Spanish (Working Proficiency)
-
-
-
-
-
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljmakaronica&layout=compact&theme=dracula)
-
----
-*Currently the president of DePaul Serbian Cultural Club and actively participating in DePaul Computer Science Society and DePaul Orthodox Christian Fellowship.*
