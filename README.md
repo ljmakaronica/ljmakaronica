@@ -25,7 +25,7 @@ DePaul Future Forward Scholarship
 Kroger Scholars Scholarship  
 Local 881 UFCW Scholarship  
 
-## Featured Projects
+## Projects
 
 ### Stem Player iOS Application
 -	Developed an iOS app that takes YouTube links from users, processes the audio into 4 separate tracks ("stems"), and enables users to manipulate the separated tracks.
