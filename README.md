@@ -15,8 +15,16 @@ I am a third year student at DePaul University, Jarvis College of Computing and 
   
 ## Education
 **DePaul University** (Graduating November 2025)  
-BS in Computer Science, Software Development Concentration  
-Minor in Spanish | GPA: 3.67
+GPA: 3.67  
+Major: Bachelor of Science in Computer Science, Software Development Concentration    
+Minor: Spanish  
+
+**Scholarships**  
+DePaul Presidential Scholarship  
+DePaul Future Forward Scholarship  
+Kroger Scholars Scholarship  
+Local 881 UFCW Scholarship  
+
 ## Featured Projects
 
 ### Stem Player iOS Application
