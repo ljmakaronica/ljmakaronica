@@ -1,6 +1,6 @@
-# Marko Ljuboja
+# Hello! I'm Marko.
 
-Hello! I am a third year student at DePaul University, Jarvis College of Computing and Digital Media. I am studying Computer Science with a concentration in Software Development, and I am also minoring in Spanish!
+I am a third year student at DePaul University, Jarvis College of Computing and Digital Media. I am studying Computer Science with a concentration in Software Development, and I am also minoring in Spanish! I am expected to graduate early: November 2025.
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/markoljuboja/)
 - Email: mljuboja16@gmail.com
