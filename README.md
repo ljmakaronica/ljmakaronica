@@ -44,9 +44,14 @@ Local 881 UFCW Scholarship
 
 
 ### [Fantasy Basketball Draft Tool](https://github.com/ljmakaronica/Fantasy-Draft-Tool-for-Sleeper)
--	Scraped NBA player stats and processed data using pandas and NumPy for fantasy score calculations.
--	Implemented a custom scoring system to rank players based on performance, injury risk, age, and league rules.
--	Automated data analysis pipeline to optimize draft strategies with dynamic player rankings.
+- Scraped thousands of NBA player statistics and analyzed data using pandas and NumPy for score calculations  
+- Implemented a dynamic scoring engine incorporating performance metrics, injury risk, age, and positional scarcity  
+- Launched automated data analysis pipeline to optimize draft strategies with dynamic player rankings  
+- Developed an interactive command-line interface for customizable modifier selection  
+- Created comprehensive documentation detailing Sleeper league scoring metrics and multiplier systems  
+- Built flexible architecture allowing for easy scoring system modifications and new metric additions  
+- Engineered custom filtering for identifying rotation players (20+ minutes) for positional analysis  
+
 
 ## Languages
 - English (Native)
