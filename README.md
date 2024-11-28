@@ -1,7 +1,8 @@
 # Hello! I'm Marko.
 <img src="https://media.giphy.com/media/iriJzRreAIEHL4ODDs/giphy.gif" width="103">   <img src="https://media.giphy.com/media/WUHR7AZH7fxHW/giphy.gif" width="106">   <img src="https://media.giphy.com/media/sQpl7yebgk3Pq/giphy.gif" width="172">   <img src="https://media.giphy.com/media/xUPGcmrdRkCaZ5qZ2M/giphy.gif" width="129">   <img src="https://media.giphy.com/media/LoC4zxAHYHbvuIEqqx/giphy.gif" width="225">  
 
-I am a third year student at DePaul University, Jarvis College of Computing and Digital Media. I am studying Computer Science with a concentration in Software Development, and I am also minoring in Spanish! I am expected to graduate early: November 2025.
+I am a third year student at DePaul University, Jarvis College of Computing and Digital Media. I am studying Computer Science with a concentration in Software Development, and I am also minoring in Spanish! I am expected to graduate early: November 2025.  
+I am seeking software engineering/development internship opportunities for Summer 2025!
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/markoljuboja/)
 - mljuboja16@gmail.com
