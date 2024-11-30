@@ -12,7 +12,7 @@ I am seeking software engineering/development internship opportunities for Summe
 ## Technical Skills
 
 - **Programming Languages:** Java, Python, C, C++, SQL, JavaScript, R
-- **Web & Mobile:** React.js, HTML/CSS, REST APIs, Swift (iOS)
+- **Web & Mobile:** React.js, Node.js HTML/CSS, REST APIs, Swift (iOS)
 - **Tools & Technologies:** Git, Docker, Unix/Linux, PuTTY, JUnit 5, Gradle, Maven, Vercel, Google Cloud
   
 ## Education
