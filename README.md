@@ -52,7 +52,15 @@ Local 881 UFCW Scholarship
 - Developed an interactive command-line interface for customizable modifier selection  
 - Created comprehensive documentation detailing Sleeper league scoring metrics and multiplier systems  
 - Built flexible architecture allowing for easy scoring system modifications and new metric additions  
-- Engineered custom filtering for identifying rotation players (20+ minutes) for positional analysis  
+- Engineered custom filtering for identifying rotation players (20+ minutes) for positional analysis
+
+
+### [2024-25 NBA Schedule Website](https://2024-25-nba-scores.vercel.app)
+- Built a responsive, dark-themed web application that displays the 2024-25 NBA schedule and daily scores.  
+- Integrated the BallDontLie API to fetch and display live game data, including final results and upcoming matchups.  
+- Implemented lazy-loading and horizontal scrolling on mobile, ensuring smooth performance and quick loading times.  
+- Automatically centers the calendar on the current date, making it easy to track today’s games.  
+- Added client-side caching of past games to speed up subsequent loads and enhance user experience.   
 
 
 ## Languages
