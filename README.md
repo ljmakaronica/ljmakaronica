@@ -17,7 +17,7 @@ I am seeking software engineering/development internship opportunities for Summe
   
 ## Education
 **DePaul University** (Graduating November 2025)  
-GPA: 3.67  
+GPA: 3.71  
 Major: Bachelor of Science in Computer Science, Software Development Concentration    
 Minor: Spanish  
 
