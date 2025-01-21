@@ -60,7 +60,16 @@ Local 881 UFCW Scholarship
 - Integrated the BallDontLie API to fetch and display live game data, including final results and upcoming matchups.  
 - Implemented lazy-loading and horizontal scrolling on mobile, ensuring smooth performance and quick loading times.  
 - Automatically centers the calendar on the current date, making it easy to track today’s games.  
-- Added client-side caching of past games to speed up subsequent loads and enhance user experience.   
+- Added client-side caching of past games to speed up subsequent loads and enhance user experience.
+
+ ### [Serbian-English Dictionary iOS App](https://github.com/ljmakaronica/serbDictionaryiOSApp)
+- Built a comprehensive SwiftUI dictionary application featuring bidirectional translation between English and Serbian (Cyrillic/Latin)
+- Implemented a SQLite database system for efficient storage and retrieval of word translations, definitions, and example sentences
+- Engineered a dynamic Word of the Day feature using custom algorithms for daily word selection
+- Created an intuitive search interface with real-time filtering across multiple alphabets and writing systems
+- Developed custom UI components for language switching and word display with color-coded parts of speech
+- Integrated widget support for iOS home screen functionality using shared app container architecture
+- Implemented smooth transitions and animations for script switching between Cyrillic and Latin alphabets 
 
 
 ## Languages
