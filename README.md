@@ -7,6 +7,7 @@ I am seeking software engineering/development internship opportunities for Summe
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/markoljuboja/)
 - mljuboja16@gmail.com
+- [Portfolio Website](https://www.markoljuboja.com)
 
   
 ## Technical Skills
