@@ -31,11 +31,27 @@ Local 881 UFCW Scholarship
 
 ## Projects
 
-### [Stem Player iOS Application](https://github.com/ljmakaronica/iOS-Stem-Player)
--	Developed an iOS app that takes YouTube links from users, processes the audio into 4 separate tracks ("stems"), and enables users to manipulate the separated tracks.
--	Engineered synchronized multi-track playback using AVAudioPlayer for precise control of each isolated track.
--	Implemented intuitive audio interface with real-time stem manipulation, volume controls, and synchronized scrubbing.
--	Built background processing system with Flask microservice for audio stem separation using Demucs neural network.
+### [iOS Stem Player](https://github.com/ljmakaronica/iOS-Stem-Player)
+
+A full-stack iOS application that takes YouTube links, splits audio into 4 individual stems (vocals, drums, bass, other), and lets users control each in real time with an intuitive mixer interface.
+
+- Built in **Swift/UIKit** with AVFoundation for precise multi-stem playback  
+- Python/Flask backend using **Demucs neural network** for audio separation  
+- Touch-based mixing, volume controls, muting, and real-time visual feedback  
+- Processes tracks ~1.5x song length with persistent local storage  
+- Designed for educational and development use  
+
+**Technologies:** Swift, UIKit, Flask, Python, Demucs, AVFoundation, FFmpeg
+
+**Demo Screenshots:**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ljmakaronica/iOS-Stem-Player/main/screenshotOne.png" width="180" />
+  <img src="https://raw.githubusercontent.com/ljmakaronica/iOS-Stem-Player/main/screenshotTwo.png" width="180" />
+  <img src="https://raw.githubusercontent.com/ljmakaronica/iOS-Stem-Player/main/screenshotThree.png" width="180" />
+  <img src="https://raw.githubusercontent.com/ljmakaronica/iOS-Stem-Player/main/screenshotFour.png" width="180" />
+  <img src="https://raw.githubusercontent.com/ljmakaronica/iOS-Stem-Player/main/screenShotFive.png" width="180" />
+</p>
 
 
 ### [Foreign Exchange Trading Platform (Northern Trust x DePaul University Hackathon - 3rd Place)](https://depaul-northern-trust-hackathon.vercel.app)
