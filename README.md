@@ -53,6 +53,28 @@ A full-stack iOS application that takes YouTube links, splits audio into 4 indiv
   <img src="https://raw.githubusercontent.com/ljmakaronica/iOS-Stem-Player/main/screenShotFive.png" width="180" />
 </p>
 
+### [Serbian-English Dictionary iOS App](https://github.com/ljmakaronica/serbDictionaryiOSApp)
+
+SwiftUI dictionary that translates between Serbian (Cyrillic & Latin) and English with a clean, modern UI.  
+*App Store release imminent  – new words added frequently.*
+
+- **Bidirectional translation** with one-tap language swap  
+- **Word-of-the-Day widget** to build vocabulary daily  
+- **Advanced search + alphabetical index** for fast lookup  
+- **Detailed entries**: part-of-speech color tags, bilingual defs, example sentences  
+- **Offline SQLite** database & custom SwiftUI components
+
+**Demo**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/93028b7a-18e3-4d3c-b869-90be806e7a37" width="199" />
+  <img src="https://github.com/user-attachments/assets/880e563c-1676-403d-98ad-c2c5e25429cb" width="199" />
+  <img src="https://github.com/user-attachments/assets/c93347fc-b36b-4b32-bd98-293daa908e32" width="199" />
+  <img src="https://github.com/user-attachments/assets/943f14ca-f242-49f4-b128-bc92d2fe4a56" width="199" />
+  <img src="https://github.com/user-attachments/assets/c7fbd0ac-89c4-4a0f-877f-5e0b8f142053" width="199" />
+</p>
+
+⚠️ **Important notice** – this codebase is proprietary and not licensed for public use or redistribution.
 
 ### [Foreign Exchange Trading Platform (Northern Trust x DePaul University Hackathon - 3rd Place)](https://depaul-northern-trust-hackathon.vercel.app)
 
@@ -71,24 +93,14 @@ A full-stack iOS application that takes YouTube links, splits audio into 4 indiv
 - Engineered custom filtering for identifying rotation players (20+ minutes) for positional analysis
 
 
-### [2024-25 NBA Schedule Website](https://2024-25-nba-scores.vercel.app)
-- Built a responsive, dark-themed web application that displays the 2024-25 NBA schedule and daily scores.  
+### [NBA Schedule Website](https://2024-25-nba-scores.vercel.app)
+- Built a responsive, dark-themed web application that displays the NBA schedule and daily scores.  
 - Integrated the BallDontLie API to fetch and display live game data, including final results and upcoming matchups.  
 - Implemented lazy-loading and horizontal scrolling on mobile, ensuring smooth performance and quick loading times.  
 - Automatically centers the calendar on the current date, making it easy to track today’s games.  
 - Added client-side caching of past games to speed up subsequent loads and enhance user experience.
 
- ### [Serbian-English Dictionary iOS App](https://github.com/ljmakaronica/serbDictionaryiOSApp)
-- Built a comprehensive SwiftUI dictionary application featuring bidirectional translation between English and Serbian (Cyrillic/Latin)
-- Implemented a SQLite database system for efficient storage and retrieval of word translations, definitions, and example sentences
-- Engineered a dynamic Word of the Day feature using custom algorithms for daily word selection
-- Created an intuitive search interface with real-time filtering across multiple alphabets and writing systems
-- Developed custom UI components for language switching and word display with color-coded parts of speech
-- Integrated widget support for iOS home screen functionality using shared app container architecture
-- Implemented smooth transitions and animations for script switching between Cyrillic and Latin alphabets 
-
-
-## Languages
+## Spoken Languages
 - English (Native)
 - Serbian (Native)
-- Spanish (Working Proficiency)
+- Spanish (Strong Working Proficiency)
