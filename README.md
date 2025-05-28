@@ -64,7 +64,7 @@ SwiftUI dictionary that translates between Serbian (Cyrillic & Latin) and Englis
 - **Detailed entries**: part-of-speech color tags, bilingual defs, example sentences  
 - **Offline SQLite** database & custom SwiftUI components
 
-**Demo**
+**Demo Screenshots**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/93028b7a-18e3-4d3c-b869-90be806e7a37" width="199" />
