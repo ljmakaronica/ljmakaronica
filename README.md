@@ -11,7 +11,7 @@ I am seeking software engineering/development opportunities!
   
 ## Technical Skills
 
-- **Programming Languages:** Java, Python, C, C++, SQL, JavaScript, R
+- **Programming Languages:** Java, Python, C, C++, SQL, JavaScript, R, Scala
 - **Web & Mobile:** React.js, Node.js HTML/CSS, REST APIs, Swift (iOS)
 - **Tools & Technologies:** Git, Docker, Unix/Linux, PuTTY, JUnit 5, Gradle, Maven, Vercel, Google Cloud
   
