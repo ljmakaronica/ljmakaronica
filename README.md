@@ -1,6 +1,6 @@
 # Hello! I'm Marko.
 
-I am a third year student at DePaul University, Jarvis College of Computing and Digital Media. I am studying Computer Science with a concentration in Software Development, and I am also minoring in Spanish! I am expected to graduate early: November 2025.  
+I am a fourth year student at DePaul University, Jarvis College of Computing and Digital Media. I am studying Computer Science with a concentration in Software Development, and I am also minoring in Spanish! I am expected to graduate early: November 2025.  
 
 I am seeking software engineering/development opportunities!
 ## Connect With Me
