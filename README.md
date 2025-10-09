@@ -2,7 +2,7 @@
 
 I am a third year student at DePaul University, Jarvis College of Computing and Digital Media. I am studying Computer Science with a concentration in Software Development, and I am also minoring in Spanish! I am expected to graduate early: November 2025.  
 
-I am seeking software engineering/development internship opportunities for Summer 2025!
+I am seeking software engineering/development opportunities!
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/markoljuboja/)
 - mljuboja16@gmail.com
@@ -56,7 +56,7 @@ A full-stack iOS application that takes YouTube links, splits audio into 4 indiv
 ### [Serbian-English Dictionary iOS App](https://github.com/ljmakaronica/serbDictionaryiOSApp)
 
 SwiftUI dictionary that translates between Serbian (Cyrillic & Latin) and English with a clean, modern UI.  
-*App Store release imminent  – new words added frequently.*
+*App Store release October 2025  – new words added frequently.*
 
 - **Bidirectional translation** with one-tap language swap  
 - **Word-of-the-Day widget** to build vocabulary daily  
