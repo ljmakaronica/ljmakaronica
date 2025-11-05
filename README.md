@@ -56,7 +56,7 @@ A full-stack iOS application that takes YouTube links, splits audio into 4 indiv
 ### [Serbian-English Dictionary iOS App](https://github.com/ljmakaronica/serbDictionaryiOSApp)
 
 SwiftUI dictionary that translates between Serbian (Cyrillic & Latin) and English with a clean, modern UI.  
-*App Store Link:
+App Store Link:
 https://apps.apple.com/us/app/serbdictionary/id6753670428
 
 - **Bidirectional translation** with one-tap language swap  
