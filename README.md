@@ -83,6 +83,13 @@ https://apps.apple.com/us/app/serbdictionary/id6753670428
 -	Built an interactive interface with portfolio tracking, trade history, and real-time exchange rate data via API integration.
 -	Implemented an LSTM (Long Short-Term Memory) machine learning model to predict currency exchange rate trends and identify optimal trading opportunities. Data is visualized with Chart.js.
 
+### [NBA Schedule Website](https://2024-25-nba-scores.vercel.app)
+- Built a responsive, dark-themed web application that displays NBA schedules, live scores, detailed box scores, and league standings.  
+- Integrated the ESPN API to fetch and display real-time game data, including player statistics, team performance metrics, and standings updates.  
+- Implemented lazy-loading and horizontal scrolling on mobile, ensuring smooth performance and quick loading times.  
+- Automatically centers the calendar on the current date, making it easy to track today's games.  
+- Added client-side caching of past games to speed up subsequent loads and enhance user experience.
+
 
 ### [Fantasy Basketball Draft Tool](https://github.com/ljmakaronica/Fantasy-Draft-Tool-for-Sleeper)
 - Scraped thousands of NBA player statistics and analyzed data using pandas and NumPy for score calculations  
@@ -94,12 +101,7 @@ https://apps.apple.com/us/app/serbdictionary/id6753670428
 - Engineered custom filtering for identifying rotation players (20+ minutes) for positional analysis
 
 
-### [NBA Schedule Website](https://2024-25-nba-scores.vercel.app)
-- Built a responsive, dark-themed web application that displays the NBA schedule and daily scores.  
-- Integrated the BallDontLie API to fetch and display live game data, including final results and upcoming matchups.  
-- Implemented lazy-loading and horizontal scrolling on mobile, ensuring smooth performance and quick loading times.  
-- Automatically centers the calendar on the current date, making it easy to track today’s games.  
-- Added client-side caching of past games to speed up subsequent loads and enhance user experience.
+
 
 ## Spoken Languages
 - English (Native)
