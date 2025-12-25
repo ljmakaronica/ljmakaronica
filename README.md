@@ -1,6 +1,7 @@
 # Hello! I'm Marko.
 
-I am a recent Cum Laude graduate of DePaul University, Jarvis College of Computing and Digital Media. I studied Computer Science with a concentration in Software Development, with a minor in Spanish!
+Cum Laude DePaul alum with a B.S. in Computer Science (Software Development) and a minor in Spanish.
+
 
 I am seeking new grad software engineering/development opportunities!
 ## Connect With Me
