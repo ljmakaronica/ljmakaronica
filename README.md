@@ -1,8 +1,8 @@
 # Hello! I'm Marko.
 
-I am a fourth year student at DePaul University, Jarvis College of Computing and Digital Media. I am studying Computer Science with a concentration in Software Development, and I am also minoring in Spanish! I am expected to graduate early: November 2025.  
+I am a recent Cum Laude graduate of DePaul University, Jarvis College of Computing and Digital Media. I studied Computer Science with a concentration in Software Development, with a minor in Spanish!
 
-I am seeking software engineering/development opportunities!
+I am seeking new grad software engineering/development opportunities!
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/markoljuboja/)
 - mljuboja16@gmail.com
@@ -11,13 +11,13 @@ I am seeking software engineering/development opportunities!
   
 ## Technical Skills
 
-- **Programming Languages:** Java, Python, C, C++, SQL, JavaScript, R, Scala
-- **Web & Mobile:** React.js, Node.js HTML/CSS, REST APIs, Swift (iOS)
-- **Tools & Technologies:** Git, Docker, Unix/Linux, PuTTY, JUnit 5, Gradle, Maven, Vercel, Google Cloud
-  
+- **Programming Languages:** Swift, Python, Java, JavaScript, C, C++, SQL, HTML/CSS
+- **Frameworks & Libraries:** SwiftUI, UIKit, React, React Native, Node.js, Flask
+- **Tools & Technologies:** Git, Xcode, SQLite, Docker, REST APIs, Maven, Gradle, Vercel, Google Cloud
+
 ## Education
-**DePaul University** (Graduating November 2025)  
-GPA: 3.71  
+**DePaul University** (Graduated November 2025)  
+GPA: 3.69  
 Major: Bachelor of Science in Computer Science, Software Development Concentration    
 Minor: Spanish  
 
@@ -26,8 +26,6 @@ DePaul Presidential Scholarship
 DePaul Future Forward Scholarship  
 Kroger Scholars Scholarship  
 Local 881 UFCW Scholarship  
-
-*Currently the president of DePaul Serbian Cultural Club and actively participating in DePaul Computer Science Society and DePaul Orthodox Christian Fellowship.*
 
 ## Projects
 
