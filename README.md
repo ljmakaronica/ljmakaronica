@@ -64,7 +64,7 @@ https://apps.apple.com/us/app/serbdictionary/id6753670428
 - **Detailed entries**: part-of-speech color tags, bilingual defs, example sentences  
 - **Offline SQLite** database & custom SwiftUI components
 
-**Demo Screenshots**
+**Demo Screenshots:**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/93028b7a-18e3-4d3c-b869-90be806e7a37" width="199" />
@@ -75,6 +75,31 @@ https://apps.apple.com/us/app/serbdictionary/id6753670428
 </p>
 
 ⚠️ **Important notice** – this codebase is proprietary and not licensed for public use or redistribution.
+
+
+### [Refolio](https://myrefolio.com)
+
+A SaaS web app that transforms resumes into live, customizable portfolio websites in under 60 seconds using AI.
+
+- Built with **Next.js** and deployed on Vercel with Supabase for auth and database
+- AI-powered resume parsing using **Google Gemini API** to extract and structure content
+- **15 unique templates** with real-time preview and inline content editing
+- Custom color theming with live preview and adaptive color palette UI
+- One-click publishing to custom `.refoli.com` subdomains via **Cloudflare Pages API**
+- Stripe integration for subscription billing with webhook handling
+
+**Technologies:** Next.js, React, Supabase, Stripe, Cloudflare Pages API, Google Gemini API, Vercel
+
+**Demo Screenshots:**
+
+<p align="center">
+  <img width="300" alt="Screenshot 2025-12-28 at 12 55 51 PM" src="https://github.com/user-attachments/assets/ed697630-2091-41b2-b2fe-375d26965c59" />
+  <img width="300" alt="Screenshot 2025-12-28 at 12 56 13 PM" src="https://github.com/user-attachments/assets/a0379292-4192-4120-90bc-822ea295b20d" />
+  <img width="300" alt="Screenshot 2025-12-28 at 12 56 25 PM" src="https://github.com/user-attachments/assets/60cf6975-dd23-4b7e-ba97-dd58ba1be6ba" />
+</p>
+
+
+
 
 ### [Foreign Exchange Trading Platform (Northern Trust x DePaul University Hackathon - 3rd Place)](https://depaul-northern-trust-hackathon.vercel.app)
 
